@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "163591983666",
+    "project_id": "honestonlinemarketing-bdb31",
+    "storage_bucket": "honestonlinemarketing-bdb31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163591983666:android:77496930819bff4136622b",
+        "android_client_info": {
+          "package_name": "com.honestonlinemarketing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH_8MiOE_r_vrGGWccUc2oKgTwff-trno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

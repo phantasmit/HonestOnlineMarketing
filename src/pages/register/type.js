@@ -1,0 +1,1 @@
+export const USER_REGISTER_REQ = "user_register_req";

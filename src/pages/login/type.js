@@ -1,0 +1,1 @@
+export const USER_LOGIN_REQ = "user_login_req";

@@ -1,0 +1,1 @@
+export const NOTIFICATION_DATA_REQ = "notification_data_req";

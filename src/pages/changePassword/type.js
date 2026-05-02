@@ -1,0 +1,1 @@
+export const CHANGE_PASSWORD_REQ = "change_password_req";
